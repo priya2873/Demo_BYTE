@@ -1,0 +1,7 @@
+Hello BYTE Interns! 
+These changes are made by Priya Kumari
+Today we will learn about Angular PWA
+
+What is Angular PWA
+Adding a service worker to an Angular application is one of the steps for turning an application into a Progressive Web App (also known as a PWA). 
+At its simplest, a service worker is a script that runs in the web browser and manages caching for an application. Service workers function as a network proxy.
